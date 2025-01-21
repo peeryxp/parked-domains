@@ -10,7 +10,7 @@
     <div class="container text-center my-5">
         <!-- Logo Section -->
         <div class="my-4">
-            <img src="https://v-molly-host.nyc3.digitaloceanspaces.com/site-icon.png" alt="Logo" class="img-fluid" width="256px">
+            <a href="https://peery.me"><img src="https://v-molly-host.nyc3.digitaloceanspaces.com/site-icon.png" alt="Logo" class="img-fluid" width="256px"></a>
         </div>
 
         <!-- Message Section -->
