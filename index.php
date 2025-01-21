@@ -19,9 +19,9 @@
 
         <!-- Contact Section -->
         <div class="mt-5">
-            <h3>Contact Us</h3>
+            <h3>Contact Me</h3>
             <p>If you have any questions, feel free to reach out.</p>
-            <a href="https://peery.me/contact" class="btn btn-primary">Email Us</a>
+            <a href="https://peery.me/contact" class="btn btn-primary">Contact Me</a>
         </div>
     </div>
 
