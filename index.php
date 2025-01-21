@@ -21,12 +21,12 @@
         <div class="mt-5">
             <h3>Contact Us</h3>
             <p>If you have any questions, feel free to reach out.</p>
-            <a href="mailto:info@example.com" class="btn btn-primary">Email Us</a>
+            <a href="https://peery.me/contact" class="btn btn-primary">Email Us</a>
         </div>
     </div>
 
     <footer class="text-center mt-5">
-        <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+        <p>&copy; 2025 Paul Peery. All rights reserved.</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
