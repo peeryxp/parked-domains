@@ -22,13 +22,6 @@
     </script>
 </head>
 <body>
-        <!-- Affiliate Banner Section -->
-        <div class="affiliate-banner my-5">
-            <a href="https://example-affiliate.com" target="_blank">
-                <img src="https://via.placeholder.com/728x90" alt="Affiliate Banner" class="img-fluid">
-            </a>
-        </div>
-
         <!-- Logo Section -->
         <div class="my-4">
             <a href="https://peery.me"><img src="https://peeryxp.nyc3.cdn.digitaloceanspaces.com/site-icon.png" alt="Logo" class="img-fluid" width="256px"></a>
@@ -38,6 +31,13 @@
         <h1 class="display-4">This Domain is Parked</h1>
         <p class="lead mt-3">The website you are looking for is not available yet. Stay tuned for updates!</p>
 
+        <!-- Affiliate Banner Section -->
+        <div class="affiliate-banner my-5">
+            <a href="https://example-affiliate.com" target="_blank">
+                <img src="https://via.placeholder.com/728x90" alt="Affiliate Banner" class="img-fluid">
+            </a>
+        </div>
+    
         <!-- Contact Section -->
         <div class="mt-5">
             <h3>Contact Me</h3>
