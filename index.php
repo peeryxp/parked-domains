@@ -22,7 +22,13 @@
     </script>
 </head>
 <body>
-    <div class="container text-center my-5">
+        <!-- Affiliate Banner Section -->
+        <div class="affiliate-banner my-5">
+            <a href="https://example-affiliate.com" target="_blank">
+                <img src="https://via.placeholder.com/728x90" alt="Affiliate Banner" class="img-fluid">
+            </a>
+        </div>
+
         <!-- Logo Section -->
         <div class="my-4">
             <a href="https://peery.me"><img src="https://peeryxp.nyc3.cdn.digitaloceanspaces.com/site-icon.png" alt="Logo" class="img-fluid" width="256px"></a>
